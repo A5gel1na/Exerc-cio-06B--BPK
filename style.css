@@ -1,0 +1,26 @@
+body{
+    padding-left: 290px;
+    padding-right: 290px;
+    background-color: rgb(238, 222, 212);
+}
+
+.microsoft{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: left;
+    border: black 2px solid;
+    padding: 8px;
+    background-color: rgb(151, 225, 151);
+}
+
+.titulo {
+    font-size: 60px;
+    text-align: left;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.microsoft-word{
+    font-family: 'Times New Roman', Times, serif;
+}
+
